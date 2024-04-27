@@ -1,5 +1,9 @@
 import './App.css'
-import ToggleButton from './ToggleButton'
+import Stopwatch from './Stopwatch'
+// import UseRef from './UseRef'
+// import UsesContext from './UsesContext'
+// import ComponentA from './ComponentA'
+// import ToggleButton from './ToggleButton'
 // import DigitalClock from './DigitalClock'
 // import UseEffect from './UseEffect'
 // import UseEffectReturn from './UseEffectReturn'
@@ -76,7 +80,11 @@ function App() {
     {/* <UseEffect /> */}
     {/* <UseEffectReturn /> */}
     {/* <DigitalClock /> */}
-    <ToggleButton />
+    {/* <ToggleButton /> */}
+    {/* <UsesContext /> */}
+    {/* <ComponentA /> */}
+    {/* <UseRef /> */}
+    <Stopwatch />
     </>
   )
 }
