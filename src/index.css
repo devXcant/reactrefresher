@@ -1,0 +1,32 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+a {
+  font-weight: 500;
+  text-decoration: none;
+}
+
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+.big{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg-color{
+  width: 80px;
+  height:80px;
+  /* background-color: red; */
+}
+
+
+
